@@ -1,0 +1,35 @@
+{
+    "Melon": {
+        "growthTimeSeconds": 57600
+    },
+    "Potato": {
+        "growthTimeSeconds": 115200
+    },
+    "Cocoa": {
+        "growthTimeSeconds": 86400
+    },
+    "Sugarcane": {
+        "growthTimeSeconds": 43200
+    },
+    "Wheat": {
+        "growthTimeSeconds": 28800
+    },
+    "Carrot": {
+        "growthTimeSeconds": 57600
+    },
+    "Iria Oak": {
+        "growthTimeSeconds": 172800
+    },
+    "Rivian Oak": {
+        "growthTimeSeconds": 172800
+    },
+    "Kelp": {
+        "growthTimeSeconds": 57600
+    },
+    "Nether Wart": {
+        "growthTimeSeconds": 115200
+    },
+    "Twisting Vine": {
+        "growthTimeSeconds": 43200
+    }
+}
